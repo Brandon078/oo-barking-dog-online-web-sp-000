@@ -6,7 +6,7 @@ class Dog
   def name
     @fido_dog
   end
-  def bark(dog_name)
+  def bark
     puts "woof!"
   end
 end
